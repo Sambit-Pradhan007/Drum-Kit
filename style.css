@@ -73,11 +73,17 @@ body {
     color: #DBEDF3;
     font-family: sans-serif;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
   }
   
 
 footer div{
+  
     margin-top: 0%;
+    margin: auto;
     font-size: 20px;
     font-weight: 600;
     flex-wrap: wrap;
@@ -95,11 +101,11 @@ footer ul{
     margin: 1%;
 }
 footer ul li a img{
-    
+  flex-wrap: wrap;
   height: 30px;
   width: 30px;
   color: #fff;
-  
+  margin: auto;
 }
 footer ul li a img:hover{
   height: 40px;
@@ -107,4 +113,5 @@ footer ul li a img:hover{
   color: aqua;
  outline-style: solid;
  border-radius: 10px;
+ margin: auto;
 }
