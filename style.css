@@ -81,7 +81,6 @@ body {
   
 
 footer div{
-  
     margin-top: 0%;
     margin: auto;
     font-size: 20px;
@@ -98,7 +97,7 @@ footer ul{
     list-style: none;
     gap: 50px;
     height: 50px;
-    margin: 1%;
+    margin: auto;
 }
 footer ul li a img{
   flex-wrap: wrap;
@@ -106,6 +105,7 @@ footer ul li a img{
   width: 30px;
   color: #fff;
   margin: auto;
+  margin-right: 30px;
 }
 footer ul li a img:hover{
   height: 40px;
@@ -113,5 +113,5 @@ footer ul li a img:hover{
   color: aqua;
  outline-style: solid;
  border-radius: 10px;
- margin: auto;
+
 }
