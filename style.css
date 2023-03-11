@@ -92,7 +92,7 @@ footer div{
 footer ul{
   flex-wrap: wrap;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: center;
     gap: 30px;
     list-style: none;
